@@ -118,9 +118,9 @@ Telco-Customer-Churn-Analysis/
 
 # Dashboard
 
-![Dashboard](Dashboard/Dashboard.png)
+![Dashboard](Dashboard/dashboard%20(1).png)
 
----
+--- 
 
 # How to Run This Project
 
