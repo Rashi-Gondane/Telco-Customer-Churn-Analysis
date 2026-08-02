@@ -50,7 +50,7 @@ Telco-Customer-Churn-Analysis/
 │
 ├── Dashboard/
 │   ├── Customer Churn Analysis.pbix
-│   └── Dashboard.png
+│   └── dashboard(1).png
 │
 └── README.md
 ```
