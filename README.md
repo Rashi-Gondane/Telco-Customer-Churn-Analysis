@@ -118,7 +118,7 @@ Telco-Customer-Churn-Analysis/
 
 # Dashboard
 
-![Dashboard](03_Dashboard/dashboard%20(1).png)
+![Dashboard](03_Dashboard/dashboard(1).png)
 
 --- 
 
